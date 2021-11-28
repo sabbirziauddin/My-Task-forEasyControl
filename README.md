@@ -4,5 +4,5 @@ step to run the file:
 2. run the application 
 3.After running there is a menubar in the browser and click to "MY TASK" 
 
-live link: https://serene-ride-af3adb.netlify.app/myTask
+live link: https://serene-ride-af3adb.netlify.app
 git link :https://github.com/sabbirziauddin/My-Task-forEasyControl
